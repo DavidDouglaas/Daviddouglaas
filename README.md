@@ -10,6 +10,3 @@
           
   <img align="center" alt="David-HTML" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   
- src=" https://discordapp.com/channels/@me/990997989453602856/990998101366026250"> </div>
-
-  
